@@ -1,12 +1,11 @@
-3d29f2e42f3f144367dfe3c66e4c8853 *DESCRIPTION
+d0828fccbcb3b6b3631ced7192873058 *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 30d4aa25d859dc4777eb12a6732a38a3 *R/codebook.R
 4cbc3d2307bda39760b587192cf7492a *R/correlates.R
 9a4b855a3da8295030d343ba9df51ffd *R/globals.R
-dea7a63e6bf325dd6b72ab22a3d748f0 *R/zzz.R
-35fa45deb3e3fc2baf6df1763fa9f458 *README.md
+b01f4d35d512ec54b6e800e9ebb1a0e3 *R/zzz.R
+8a8998adb2af072a1e9148ce3b1133b0 *README.md
 b307ec8c82b5d8d1566f2ca7ed01fad7 *data/codebook.rda
 d0cd07a9360c0f84891192fdadc1cccf *data/correlates.rda
-1ebf2200384ad7e45572dde1b1642842 *data/datalist
 874515758fd191c34f270d374c91e2a4 *man/codebook.Rd
 cbfeb463997e3955e085b23b425d99b4 *man/correlates.Rd

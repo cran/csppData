@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![](https://www.r-pkg.org/badges/version/csppData?color=blue)](https://cran.r-project.org/package=csppData)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/csppData?color=blue)](https://cran.r-project.org/package=csppData)
 <!-- badges: end -->
 
 **csppData** is an R package that contains the Correlates of State
@@ -12,7 +14,8 @@ Policy data assembled by Marty P. Jordan and Matt Grossmann. Use the
 associated [cspp](https://github.com/correlatesstatepolicy/cspp) package
 to subset the data by states and years, create map + panel
 visualizations, export citations to common file formats (e.g., .bib),
-and more.
+and more. An associated [web
+application](https://cspp.ippsr.msu.edu/cspp/) is also available.
 
 ## The Correlates of State Policy
 
@@ -44,6 +47,9 @@ compiles more than 2,000 variables across 50 states (+ DC) from
 # Install from github:
 library(devtools)
 install_github("correlatesstatepolicy/csppData")
+
+# Install from CRAN:
+install.packages("csppData")
 ```
 
 ## Loading the CSPP Data
