@@ -5,13 +5,13 @@
 \alias{correlates}
 \title{The Correlates of State Policy Project Dataset (IPPSR)}
 \format{
-An object of class \code{data.frame} with 6281 rows and 2142 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 6171 rows and 2279 columns.
 }
 \usage{
 correlates
 }
 \description{
-The Correlates of State Policy Project dataset assembled by Marty P. Jordan and Matt Grossmann (2020) <http://ippsr.msu.edu/public-policy/correlates-state-policy>. Each observation is a state-year.
+The Correlates of State Policy Project dataset (version 2.4) assembled by Marty P. Jordan and Matt Grossmann (2020) <http://ippsr.msu.edu/public-policy/correlates-state-policy>. Each observation is a state-year.
 }
 \details{
 @name correlates
